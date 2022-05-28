@@ -7,15 +7,17 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          First Deploy<code> React</code> in Netlife 
         </p>
+        <p>By</p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://github.com/isaquemenezes"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Dev Isaque Menezes
+          
         </a>
       </header>
     </div>

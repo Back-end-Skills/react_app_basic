@@ -9,6 +9,7 @@ function App() {
         <p>
           First Deploy<code> React</code> in Netlife 
         </p>
+        <p>CI/CD with Github</p>
         <p>By</p>
         <a
           className="App-link"
